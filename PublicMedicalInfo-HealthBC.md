@@ -14,3 +14,9 @@ Patient Portal Search https://snd.searchdoctors.ca/
 MediMap: Search Services: https://medimap.ca/Clinics/Massage-Therapy-Clinics/BC/Surrey?page=1
 
 MyHealth Access: https://www.myhealthaccess.ca/patient/#/clinics/find/4d4013b6-3624-4e04-910f-8ae637801c30
+
+
+Surrey : UPCC https://goo.gl/maps/qTGmf9i7AquXjCrv8 
++16045722610
+
+Fraser Health Virtual Nurse: 1800 314 0999
