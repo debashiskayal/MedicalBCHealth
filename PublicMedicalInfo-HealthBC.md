@@ -1,4 +1,4 @@
-_General Health and Medical Info for BC Canada
+**General Health and Medical Info for BC Canada**
 
 Fraser Health Virtual Nurse (call this number to get a nurse practitioner's opinion of the situation - I found it more of an informational desk with minor value-add in terms of actual medical help): 1800 314 0999
 
@@ -36,3 +36,4 @@ Work around: (1) Stock up (during India / US visits) (2) Call around pharmacies 
 Medicine Costs: All pharmacies charge something called Prescription Service Charge - this tends to be a fixed fee (of ~ $10) per prescription. Sometimes they break up the dosage and charge you everytime you come to pick up the same meds. For example - if the doc prescribes you 3 month medicine - it is better to take all the medicine at once instead of coming back 3 times each month - as each time they process your prescription they add that service charge. The cost of the medicine remains same. They do this more if they see that there is an insurance covering cost of medicine. So be careful.
 
 
+__Disclaimer: These are my personal findings only and are not to be used in replacement of professional medical advice/information__
