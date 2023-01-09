@@ -12,6 +12,8 @@ Lower Mainland BC Public Health Service: https://www.fraserhealth.ca/Service-Dir
 
 Additonal Info on newcomer immunization: https://kidsnewtocanada.ca/screening/immunizations
 
+Spouses Health Gateway: https://www.healthgateway.gov.bc.ca/
+
 **General Health and Medical Info for BC Canada**
 
 Fraser Health Virtual Nurse (call this number to get a nurse practitioner's opinion of the situation - I found it more of an informational desk with minor value-add in terms of actual medical help): 1800 314 0999
