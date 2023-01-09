@@ -1,3 +1,14 @@
+Child's Vaccination Update to BC : 
+
+Use this link to update new comer children's immunization records:  Reporting Immunizations : 
+https://www.fraserhealth.ca/health-topics-a-to-z/immunizations/reporting-immunizations#.Y7xeenbMKHs
+
+Online Updation Link: www.fraserhealth.ca/immunizationform
+
+Lower Mainland BC Public Health Service: https://www.fraserhealth.ca/Service-Directory/Services/Public-Health-Services/public-health-unit#.Y7xe_nbMKHs
+
+Additonal Info on newcomer immunization: https://kidsnewtocanada.ca/screening/immunizations
+
 **General Health and Medical Info for BC Canada**
 
 Fraser Health Virtual Nurse (call this number to get a nurse practitioner's opinion of the situation - I found it more of an informational desk with minor value-add in terms of actual medical help): 1800 314 0999
