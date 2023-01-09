@@ -1,3 +1,6 @@
+BC Public Health : +1 604 587 7900
+Phone numer to book Vaccine Appointment: +1 604 476 7087 
+
 Child's Vaccination Update to BC : 
 
 Use this link to update new comer children's immunization records:  Reporting Immunizations : 
